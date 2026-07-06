@@ -20,7 +20,7 @@ Topics:
 - Database Management Systems (DBMS)
 - Operating Systems (OS)
 - Computer Networks (CN)
-- 👌
+- 👌🆗
 
 ### 3. Technical Interview
 Common Areas:
